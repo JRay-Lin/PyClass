@@ -1,0 +1,10 @@
+{
+    "name": "JRay",
+    "age": 20,
+    "gender": "male",
+    "email": {
+        "acc": "eqwewqeqw",
+        "password": "xxxxxx"
+    },
+    "hobbies": ["reading", "writing"]
+}
